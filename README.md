@@ -1,6 +1,9 @@
 # SQL-practice
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my SQL practice exercises and solutions as I prepare for placement interviews and improve my database skills. It includes a variety of SQL problems ranging from basic to advanced level, covering different SQL concepts and real-world scenarios.
 
+🛠️ Technologies Used
+1. SQL (MySQL/PostgreSQL/SQL Server)
+2. Database Management Systems
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
