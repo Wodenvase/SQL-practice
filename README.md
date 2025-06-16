@@ -10,5 +10,6 @@ This repository contains my SQL practice exercises and solutions as I prepare fo
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Wodenvase/SQL-practice/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Wodenvase/SQL-practice/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Wodenvase/SQL-practice/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
