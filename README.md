@@ -19,4 +19,5 @@ This repository contains my SQL practice exercises and solutions as I prepare fo
 | [1827-invalid-tweets](https://github.com/Wodenvase/SQL-practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Wodenvase/SQL-practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/Wodenvase/SQL-practice/tree/master/3803-find-products-with-valid-serial-numbers) |
+| [3828-analyze-organization-hierarchy](https://github.com/Wodenvase/SQL-practice/tree/master/3828-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
