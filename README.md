@@ -15,6 +15,7 @@ This repository contains my SQL practice exercises and solutions as I prepare fo
 | [0595-big-countries](https://github.com/Wodenvase/SQL-practice/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Wodenvase/SQL-practice/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Wodenvase/SQL-practice/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/Wodenvase/SQL-practice/tree/master/1415-students-and-examinations) |
 | [1480-movie-rating](https://github.com/Wodenvase/SQL-practice/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Wodenvase/SQL-practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Wodenvase/SQL-practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
