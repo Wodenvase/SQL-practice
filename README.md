@@ -23,6 +23,7 @@ This repository contains my SQL practice exercises and solutions as I prepare fo
 | [1480-movie-rating](https://github.com/Wodenvase/SQL-practice/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Wodenvase/SQL-practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Wodenvase/SQL-practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Wodenvase/SQL-practice/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Wodenvase/SQL-practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Wodenvase/SQL-practice/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Wodenvase/SQL-practice/tree/master/2087-confirmation-rate) |
